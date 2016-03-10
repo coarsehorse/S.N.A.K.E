@@ -1,0 +1,12 @@
+     data type      byte          max value  
+bool               =  1         255.00
+char               =  1         255.00
+short int          =  2         32767.00
+unsigned short int =  2         65535.00
+int                =  4         2147483647.00
+unsigned int       =  4         4294967295.00
+long int           =  4         2147483647.00
+unsigned long int  =  4         4294967295.00
+float              =  4         2147483647.00
+long float         =  8         9223372036854775800.00
+double             =  8         9223372036854775800.00
