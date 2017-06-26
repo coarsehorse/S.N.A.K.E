@@ -5,4 +5,4 @@ Used original iniParser
 
 **Screenshot:**
 
-<p align="center"><img source="/screen.png"></p>
+<p align="center"><img src="/screen.png"></p>
